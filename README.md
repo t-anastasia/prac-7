@@ -2,7 +2,7 @@
 <p>Производственная практика (7 семестр)</p>
 
 ## Инвариантивные задания
-<p><a href="hhttps://github.com/t-anastasia/tech-prac-7-sem-2021/blob/main/1.1_%D0%98%D0%A1%D0%A0.pdf">1.1 ИСР Изучить структуру и задачи организации</a></p>
+<p><a href="https://github.com/t-anastasia/tech-prac-7-sem-2021/blob/main/1.1_%D0%98%D0%A1%D0%A0.pdf">1.1 ИСР Изучить структуру и задачи организации</a></p>
 <p><a href="https://github.com/t-anastasia/tech-prac-7-sem-2021/blob/main/1.2_%D0%98%D0%A1%D0%A0.pdf">1.2 ИСР Изучить деятельность структурного подразделения</a></p>
 <p><a href="https://github.com/t-anastasia/tech-prac-7-sem-2021/blob/main/1.3_%D0%98%D0%A1%D0%A0.pdf">1.3 ИСР Ознакомиться с использованием информационных сетей для решения задач структурного подразделения</a></p>
 <p><a href="https://github.com/t-anastasia/tech-prac-7-sem-2021/blob/main/1.4_%D0%98%D0%A1%D0%A0.pdf">1.4 ИСР Провести анализ информационного ресурса, созданного или используемого структурным подразделением</a></p>
